@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package Grafos;
 
 import org.graphstream.algorithm.Dijkstra;
@@ -12,10 +8,8 @@ import org.graphstream.graph.Node;
 import org.graphstream.graph.implementations.SingleGraph;
 
 
-/**
- *
- * @author 0160670
- */
+//author: FontMath
+//Github: https://github.com/FontMath/grafos
 public class Grafos {
 
     /**
